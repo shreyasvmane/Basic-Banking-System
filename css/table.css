@@ -1,0 +1,12 @@
+  body{
+    background: rgb(60,141,164);
+    background: linear-gradient(90deg, rgba(60,141,164,0.2752451322325805) 0%, rgba(166,164,188,0.10717790534182425) 1%);
+   }
+
+  .text {
+    color:rgb(15, 94, 150);
+  }
+
+  hr{
+      color:black;
+  }

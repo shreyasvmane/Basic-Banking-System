@@ -1,0 +1,24 @@
+
+.footer{
+    color:rgb(255, 250, 250);
+    font-weight:normal;
+    background:  rgb(76, 73, 83);
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+  }
+  
+  .footer .followus .text-center .list-unstyled .btn{
+    color:white;
+  }
+  
+  .footer .links .list-unstyled li a{
+    color: white;
+  }
+  
+  
+  .footer .followus .text-center .list-unstyled .btn:hover{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(139, 147, 164);
+    border-radius: 50%;
+  }
